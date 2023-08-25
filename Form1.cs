@@ -1,5 +1,7 @@
-using System.Data;
 using System.Data.SqlClient;
+using System.Data;
+using Microsoft.Win32.SafeHandles;
+
 namespace Lockdown
 {
     public partial class Form1 : Form
@@ -41,12 +43,27 @@ namespace Lockdown
 
         private void ConnectoSQL_Click(object sender, EventArgs e)
         {
-            System.Data.SqlClient.SqlConnectionStringBuilder builder =
-   new System.Data.SqlClient.SqlConnectionStringBuilder();
-            builder["Data Source"] = "(local)";
-            builder["integrated Security"] = true;
-            builder["Initial Catalog"] = "AdventureWorks;NewValue=Bad";
-            Console.WriteLine(builder.ConnectionString);
+
+            try
+            {
+                SqlConnection conn = new SqlConnection(
+          new SqlConnectionStringBuilder()
+          {
+              DataSource = "ALEX-PC",
+              InitialCatalog = "AdventureWorks2019",
+              UserID = "sa",
+              Password = "admi"
+          }.ConnectionString
+      );
+                conn.Open();
+
+
+                conn.Close();
+            }
+            catch (SqlException ex)
+            {
+                MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

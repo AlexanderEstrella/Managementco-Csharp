@@ -65,7 +65,7 @@
             // 
             // ConnectoSQL
             // 
-            ConnectoSQL.Location = new Point(834, 271);
+            ConnectoSQL.Location = new Point(813, 184);
             ConnectoSQL.Name = "ConnectoSQL";
             ConnectoSQL.Size = new Size(184, 43);
             ConnectoSQL.TabIndex = 4;
