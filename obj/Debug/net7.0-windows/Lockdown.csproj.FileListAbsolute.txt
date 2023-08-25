@@ -1,0 +1,17 @@
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\bin\Debug\net7.0-windows\Lockdown.exe
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\bin\Debug\net7.0-windows\Lockdown.deps.json
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\bin\Debug\net7.0-windows\Lockdown.runtimeconfig.json
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\bin\Debug\net7.0-windows\Lockdown.dll
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\bin\Debug\net7.0-windows\Lockdown.pdb
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\Lockdown.csproj.AssemblyReference.cache
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\Lockdown.Form1.resources
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\Lockdown.csproj.GenerateResource.cache
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\Lockdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\Lockdown.AssemblyInfoInputs.cache
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\Lockdown.AssemblyInfo.cs
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\Lockdown.csproj.CoreCompileInputs.cache
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\Lockdown.dll
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\refint\Lockdown.dll
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\Lockdown.pdb
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\Lockdown.genruntimeconfig.cache
+C:\Users\Acumen\Desktop\C# Projects\Lockdown\obj\Debug\net7.0-windows\ref\Lockdown.dll
