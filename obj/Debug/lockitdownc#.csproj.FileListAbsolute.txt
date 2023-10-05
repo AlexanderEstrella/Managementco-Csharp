@@ -1,0 +1,11 @@
+D:\Users\alexa\source\repos\lockitdownc#\bin\Debug\lockitdownc#.exe.config
+D:\Users\alexa\source\repos\lockitdownc#\bin\Debug\lockitdownc#.exe
+D:\Users\alexa\source\repos\lockitdownc#\bin\Debug\lockitdownc#.pdb
+D:\Users\alexa\source\repos\lockitdownc#\obj\Debug\lockitdownc#.csproj.AssemblyReference.cache
+D:\Users\alexa\source\repos\lockitdownc#\obj\Debug\lockitdownc#.csproj.SuggestedBindingRedirects.cache
+D:\Users\alexa\source\repos\lockitdownc#\obj\Debug\lockitdownc_.Form1.resources
+D:\Users\alexa\source\repos\lockitdownc#\obj\Debug\lockitdownc_.Properties.Resources.resources
+D:\Users\alexa\source\repos\lockitdownc#\obj\Debug\lockitdownc#.csproj.GenerateResource.cache
+D:\Users\alexa\source\repos\lockitdownc#\obj\Debug\lockitdownc#.csproj.CoreCompileInputs.cache
+D:\Users\alexa\source\repos\lockitdownc#\obj\Debug\lockitdownc#.exe
+D:\Users\alexa\source\repos\lockitdownc#\obj\Debug\lockitdownc#.pdb
